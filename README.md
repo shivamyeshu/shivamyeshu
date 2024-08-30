@@ -6,24 +6,23 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%2C%20Next.js%2C%20Tailwind%20CSS-blue?style=flat&logo=react)
 
-- **Languages**: C++, Rust, JavaScript, TypeScript
+- **Languages**: C++, JavaScript, Rust 
 - **Web Development**: React, Next.js, Tailwind CSS
-- **Blockchain**: Ethereum, Solidity
-- **Database**: MongoDB, IPFS
+- **Blockchain**: Ethereum, Solidity ,Solana 
+- **Database**: MongoDB, IPFS, Firebase 
 
-## 🌟 Skills
-
-### Front-End Development
-![Front-End](https://img.shields.io/badge/Skills-HTML%2C%20CSS%2C%20JavaScript%2C%20React%2C%20Next.js-blue)
-
-### Back-End Development
-![Back-End](https://img.shields.io/badge/Skills-Node.js%2C%20Express%2C%20MongoDB%2C%20Solidity-green)
-
-### Problem Solving
-![Problem Solving](https://img.shields.io/badge/Skills-Algorithms%2C%20Data%20Structures-orange)
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyeshu&layout=compact&theme=default)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyeshu&layout=compact&theme=radical)
+
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamyeshu&theme=radical)
+
+## 📚 Projects
+- **[Bio Chain](https://github.com/shivamyeshu/Bio-Chain)**: A platform for visualizing and generating molecular structures.
+- **[EaseExplore](https://github.com/shivamyeshu/EaseExplore)**: An AI-powered app for trip planning.
 
 ## 📫 Contact
 
