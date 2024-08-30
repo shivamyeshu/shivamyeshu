@@ -16,11 +16,5 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
   </div>
 </div>
 
-
-## 📫 Contact
-- **Email**: Kumar04shivamy@gmail.com
-- **LinkedIn**: [Shivam's LinkedIn](https://www.linkedin.com/in/shivamyeshu/)
-- **X**: [Shivam's X](https://x.com/Shivam_01Kumar)
-
 Feel free to check out my projects and get in touch!
 Happy coding! 😊
