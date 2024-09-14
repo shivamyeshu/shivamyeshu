@@ -11,12 +11,9 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 ### 📈 GitHub Stats
   <div style="flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;">
 
-    
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🔥 Streak Stats
 
-![Shivam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![Shivam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamyeshu&theme=radical)
 
   </div>
 </div>
