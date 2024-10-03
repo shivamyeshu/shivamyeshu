@@ -14,6 +14,8 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 
 
 ![Shivam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamyeshu&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyeshu&layout=compact&theme=tokyonight)
+
 
   </div>
 </div>
