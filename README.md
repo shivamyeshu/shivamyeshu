@@ -2,11 +2,11 @@
 I'm a Computer Science and Engineering student from Delhi, India, passionate about web development, IOT and exploring new technologies.
 
 ### 🚀 Technical Stack
-- **Languages**: C++, Java, JavaScript, Rust
+- **Languages**: C++, JavaScript
 - **Web Development**: React.js, Next.js, Tailwind CSS, Express, Node.js
-- **Blockchain**: Solidity, Ethereum, Solana 
-- **Database**: MySQL, MongoDB, Firebase,  IPFS
-- **Tools**: Postman, Github, AWS
+- **Blockchain**: Solidity
+- **Database**: MySQL, MongoDB, Firebase
+- **Tools**: Postman, Github, AWS , Docker
 
 ### 📈 GitHub Stats
   <div style="flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;">
