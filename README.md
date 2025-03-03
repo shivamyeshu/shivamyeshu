@@ -4,7 +4,6 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 ### 🚀 Technical Stack
 - **Languages**: C++, JavaScript
 - **Web Development**: React.js, Next.js, Tailwind CSS, Express, Node.js
-- **Blockchain**: Solidity
 - **Database**: MySQL, MongoDB, Firebase
 - **Tools**: Postman, Github, AWS , Docker
 
