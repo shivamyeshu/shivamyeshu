@@ -1,10 +1,11 @@
 ## < Hello, I'm Shivam /> 
-I'm a Computer Science and Engineering student from Delhi, India, passionate about web development, IOT and exploring new technologies.
+I'm a Computer Science and Engineering student from Delhi, India, passionate about web development, IOT, AI and exploring new technologies.
+- living in 2030 with ideas.
 
 ### 🚀 Technical Stack
 - **Languages**: C++, JavaScript
-- **Web Development**: React.js, Next.js, Tailwind CSS, Express, Node.js
-- **Database**: MySQL, MongoDB, Firebase
+- **Web Development**: React.js, Next.js, Express, Node.js
+- **Database**: MySQL, MongoDB, convex
 - **Tools**: Postman, Github, AWS , Docker
 
 ### 📈 GitHub Stats
