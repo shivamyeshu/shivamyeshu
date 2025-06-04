@@ -1,7 +1,7 @@
 ## < Hello, I'm Shivam /> 
 I'm a Computer Science and Engineering student from Delhi, India, passionate about web development, IOT, AI and exploring new technologies.
 - living in 2030 with ideas.
-
+![shivam](https://github-profile-trophy.vercel.app/?username=shivamyeshu&row=2&column=3)
 ### 🚀 Technical Stack
 - **Languages**: C++, JavaScript
 - **Web Development**: React.js, Next.js, Express, Node.js
