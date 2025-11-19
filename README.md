@@ -17,8 +17,6 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=shivamyeshu&theme=radical)
 
-![shivam](https://github-profile-trophy.vercel.app/?username=shivamyeshu&row=1&column=5)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamyeshu&label=Profile%20views&color=0e75b6&style=flat)
 
 
