@@ -5,8 +5,8 @@ I'm a Computer Science and Engineering student from Delhi, India, passionate abo
 
 ### 🚀 Technical Stack
 - **Languages**: C++, JavaScript
-- **Web Development**: React.js, Next.js, Express, Node.js
-- **Database**: MySQL, MongoDB, convex
+- **Web Development**: React.js, Next.js, Express, Node.js , Electron
+- **Database**: MySQL, MongoDB, convex, vector
 - **Tools**: Postman, Github, AWS , Docker
 
 ### 📈 GitHub Stats
